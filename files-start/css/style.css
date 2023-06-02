@@ -1,0 +1,74 @@
+*
+body {
+  background-color: lightgreen;
+}
+h1
+{
+  text-align: center;
+  border: 1px dashed red;
+  background-color: yellow;
+  margin: 0;
+  padding: 10px;
+  margin-right: 170px;
+  margin-left:170px ;
+
+}
+.allfotos
+{
+
+  background-color: rgb(107, 106, 106);
+ 
+  text-align: center;
+
+  margin-right: 170px;
+  margin-left:170px ;
+  bak
+
+
+
+}
+
+.linesofphotos
+{
+  
+  padding: 10px;
+  background-color: rgb(247, 245, 245);
+ 
+ text-align: center;
+
+ margin-right: 170px;
+ margin-left:170px ;
+
+ 
+  
+}
+
+.line1 
+{
+
+  padding: 10px;
+  display: inline-block;
+  margin: 5px;
+}
+.line2 
+{
+;
+  padding: 10px;
+  display: inline-block;
+  margin: 5px;
+  text-align: center;
+
+}
+.line3 
+{
+  
+  padding: 10px;
+  display: inline-block;
+  margin: 5px;
+  text-align: center;
+}
+img 
+{
+
+
+}
